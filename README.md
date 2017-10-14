@@ -1,2 +1,1 @@
-# codedeploy-labs
-CodeDeploy Examples
+# Continuous Delivery with AWS CodeDeploy
